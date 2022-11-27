@@ -1,4 +1,4 @@
-## Desafio 01 - Ignite Feed
+## Ignite Feed
 <img src="https://github.com/Tharlys10/ignite-feed/blob/main/.github/assets/cover_page.png?raw=true" align="center" />
 
 Durante este desafio, utilizamos os conceitos básicos do React desenvolvendo do zero uma mídia social simples onde você pode comentar, deletar e aplaudir (botão "Aplaudir") para interagir no aplicativo!
